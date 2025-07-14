@@ -12,45 +12,44 @@ const config: QuartzConfig = {
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
+    analytics: null,
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "compdbd.fyi",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        header: "Viaoda Libre",
+        body: "Inter",
         code: "IBM Plex Mono",
       },
-      colors: {
-        lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
-        },
-        darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
-        },
-      },
+colors: {
+  lightMode: {
+    light: "#fdfaf5",              // Pale bone-white (clean background)
+    lightgray: "#e2ddd5",          // Smoky parchment gray
+    gray: "#a49f97",               // Aged stone
+    darkgray: "#5a5249",           // Charcoal-ash
+    dark: "#2c2620",               // Burnt umber
+    secondary: "#c3873f",          // Auric gold (primary brand accent)
+    tertiary: "#ffbd4a",           // Bright auric pop
+    highlight: "rgba(255, 189, 74, 0.12)", // Golden glow
+    textHighlight: "#ffb93888",    // Soft glowing amber
+  },
+  darkMode: {
+    light: "#1b1917",              // Near-black with warmth
+    lightgray: "#3a3531",          // Sooty gray
+    gray: "#72695f",               // Weathered steel
+    darkgray: "#dcd6cd",           // Pale ash
+    dark: "#f8f6f2",               // Bone-white
+    secondary: "#ffb938",          // Rich auric gold
+    tertiary: "#ffe8b1",           // Warm ivory gold
+    highlight: "rgba(255, 189, 74, 0.08)", // Dim auric shimmer
+    textHighlight: "#ffd34a88",    // Luminous gold highlight
+  },
+},
+
     },
   },
   plugins: {
