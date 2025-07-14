@@ -1,5 +1,6 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
+import { defaultImage } from "./quartz/util/og"
 
 /**
  * Quartz 4 Configuration
@@ -25,31 +26,30 @@ const config: QuartzConfig = {
         body: "Inter",
         code: "IBM Plex Mono",
       },
-colors: {
-  lightMode: {
-    light: "#fdfaf5",              // Pale bone-white (clean background)
-    lightgray: "#e2ddd5",          // Smoky parchment gray
-    gray: "#a49f97",               // Aged stone
-    darkgray: "#5a5249",           // Charcoal-ash
-    dark: "#2c2620",               // Burnt umber
-    secondary: "#c3873f",          // Auric gold (primary brand accent)
-    tertiary: "#ffbd4a",           // Bright auric pop
-    highlight: "rgba(255, 189, 74, 0.12)", // Golden glow
-    textHighlight: "#ffb93888",    // Soft glowing amber
-  },
-  darkMode: {
-    light: "#1b1917",              // Near-black with warmth
-    lightgray: "#3a3531",          // Sooty gray
-    gray: "#72695f",               // Weathered steel
-    darkgray: "#dcd6cd",           // Pale ash
-    dark: "#f8f6f2",               // Bone-white
-    secondary: "#ffb938",          // Rich auric gold
-    tertiary: "#ffe8b1",           // Warm ivory gold
-    highlight: "rgba(255, 189, 74, 0.08)", // Dim auric shimmer
-    textHighlight: "#ffd34a88",    // Luminous gold highlight
-  },
-},
-
+      colors: {
+        lightMode: {
+          light: "#fdfaf5", // Pale bone-white (clean background)
+          lightgray: "#e2ddd5", // Smoky parchment gray
+          gray: "#a49f97", // Aged stone
+          darkgray: "#5a5249", // Charcoal-ash
+          dark: "#2c2620", // Burnt umber
+          secondary: "#c3873f", // Auric gold (primary brand accent)
+          tertiary: "#ffbd4a", // Bright auric pop
+          highlight: "rgba(255, 189, 74, 0.12)", // Golden glow
+          textHighlight: "#ffb93888", // Soft glowing amber
+        },
+        darkMode: {
+          light: "#1b1917", // Near-black with warmth
+          lightgray: "#3a3531", // Sooty gray
+          gray: "#72695f", // Weathered steel
+          darkgray: "#dcd6cd", // Pale ash
+          dark: "#f8f6f2", // Bone-white
+          secondary: "#ffb938", // Rich auric gold
+          tertiary: "#ffe8b1", // Warm ivory gold
+          highlight: "rgba(255, 189, 74, 0.08)", // Dim auric shimmer
+          textHighlight: "#ffd34a88", // Luminous gold highlight
+        },
+      },
     },
   },
   plugins: {
@@ -88,7 +88,13 @@ colors: {
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
       // Comment out CustomOgImages to speed up build time
-      Plugin.CustomOgImages(),
+      Plugin.CustomOgImages({
+        colorScheme: "lightMode", // what colors to use for generating image, same as theme colors from config, valid values are "darkMode" and "lightMode"
+        width: 1200, // width to generate with (in pixels)
+        height: 630, // height to generate with (in pixels)
+        excludeRoot: false, // wether to exclude "/" index path to be excluded from auto generated images (false = use auto, true = use default og image)
+        imageStructure: defaultImage, // custom image component to use
+      }),
     ],
   },
 }
