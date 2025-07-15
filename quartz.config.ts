@@ -9,7 +9,7 @@ import { defaultImage } from "./quartz/util/og"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "Comp DBD",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
