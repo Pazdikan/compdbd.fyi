@@ -1,6 +1,7 @@
 ---
 title: Comp DBD
 description: The all-in-one wiki for the competitive scene of Dead by Daylight.
+tags: []
 ---
 >[!warning] Work In Progress
 > Daily updates, until the website reaches it's peak 😎
