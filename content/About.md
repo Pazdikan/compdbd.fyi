@@ -1,7 +1,8 @@
 ---
 description: Learn more about the goal and creations of this wiki and news website for competitive Dead by Daylight.
 ---
-Hi there! Thank you for visiting my little website about competitive Dead By Daylight.
+### Hi there!
+Thank you for visiting my little website about competitive Dead By Daylight.
 
 I'm Pazdikan, and I've been a fan of comp dbd since I've came across it, in early 2024... I know right, why the f\*ck am I even making a website for a topic I haven't been following for a couple of years? Well because I want to help people like myself to learn more about this side of DBD.
 

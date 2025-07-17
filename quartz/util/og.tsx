@@ -286,6 +286,7 @@ export const defaultImage: SocialImageOptions["imageStructure"] = ({
             WebkitLineClamp: 5,
             overflow: "hidden",
             textOverflow: "ellipsis",
+            whiteSpace: "pre-line"
           }}
         >
           {description}

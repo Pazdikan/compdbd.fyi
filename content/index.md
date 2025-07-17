@@ -9,3 +9,5 @@ tags: []
 
 
 This wiki aims at providing up to date information about tournaments, teams and players, but also helping new fans understand the competitive scene of Dead by Daylight.
+
+![[About#Hi there!]]
