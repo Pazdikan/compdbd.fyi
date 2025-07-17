@@ -1,8 +1,8 @@
 ---
 description: |-
   Team Invictus is one of the top Dead by Daylight competitive teams. It absorbed most members from Team Eternal, after they disbanded.
-
-  Roaster: Dan (C), Kekso, KnightLight, Pedro, Spitzz
+  \n\n
+  Roster: Dan (C), Kekso, KnightLight, Pedro, Spitzz
 tags: 
 title: Team Invictus
 ---
