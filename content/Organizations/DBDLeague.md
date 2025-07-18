@@ -1,4 +1,5 @@
 ---
+title: DBDLeague
 description: DBDLeague is an independent organization, officially supported by Behaviour Interactive, dedicated to competitive Dead by Daylight,
 ---
 

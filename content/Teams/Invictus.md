@@ -1,12 +1,25 @@
 ---
 description: |-
-  Team Invictus is one of the top Dead by Daylight competitive teams. It absorbed most members from Team Eternal, after they disbanded.
+  Team Invictus is one of the top Dead by Daylight competitive teams. It consists of most players from Team Eternal, after they disbanded.
 
   Roster: Dan (C), Kekso, KnightLight, Pedro, Spitzz
 title: Team Invictus
-team_logo: "![[invictus_logo.png]]"
+team_logo: invictus_logo.png
 ---
-**Team Invictus** is one of the top Dead by Daylight competitive teams. It absorbed most members from [[Eternal|Team Eternal]], after they disbanded.
+
+> [!infobox] Character Info
+> ![[invictus_logo.png]]
+> 
+>
+> |  Q  |  A  |
+> | --- | --- |
+> |  Region  | EU |
+
+
+
+**Team Invictus** is one of the top Dead by Daylight competitive teams. It consists of most of players from [[Eternal|Team Eternal]], after they disbanded.
+
+
 # Roster
 
 ## DBDLeague Season X[^1]

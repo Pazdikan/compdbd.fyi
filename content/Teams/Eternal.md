@@ -1,36 +1,38 @@
 ---
-description: |-
-  Team Eternal was a highly successful and the most recognizable team, securing around 50 tournament wins.
-
-  They disbanded in Q2 2025, and players split into two new teams.
-tags: 
 title: Team Eternal
----
-**Team Eternal** was a highly successful and one of the most recognizable team, securing around 50 tournament wins.
+description: |-
+  Team Eternal was highly successful team, by many considered the best - with around 50 tournament wins to their name.
 
-# Roster
-![[About#Accuracy Notice]]
+  They disbanded in Q2 2025, and players were split into two new teams.
+tags:
+---
+**Team Eternal** was highly successful, recognized as one of the top teams, and often regarded as _the_ best, with around 50 tournament wins to their name.
+
+# Roster[^1]
+%% ![[About#Accuracy Notice]]  %%
 
 - KnightLight
 - Spitzz
-- Zaka
+- Zaka (C)
 - Dan
 - Ivn
 - Hxrdwell
 - Kekso
 
 ## Former or temporary players
-- Royalty 
+- Royalty[^1]
 
 # Disbandment
 In Q2 2025 Eternal disbanded, and it's players were split into two new teams.
 
-## [[Team Invictus]]
+## [[Invictus|Team Invictus]]
 - KnightLight
 - Dan
 - Spitzz
 - Kekso
 
-## [[Team Nokron]]
+## [[Nokron|Team Nokron]]
 - Zaka
 - Ivn
+
+[^1]: https://docs.google.com/document/d/1U8FTO0F5wh1yoos8NtYJqW1a7wRQcbnqZQ1yaHXpqhM

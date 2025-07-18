@@ -1,0 +1,84 @@
+.callout[data-callout="infobox"] {
+  float: right;
+  clear: right;
+  width: 300px;
+  max-height: none;         /* Allow full height */
+  overflow: visible !important; /* Don't clip or scroll */
+  margin: 0 0 1em 1em;
+  padding: 10px 15px;
+  border: 1px solid var(--highlight);
+  background: var(--light);
+  color: var(--text-normal);
+  border-radius: 8px;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.04);
+  font-size: 0.98em;
+}
+
+.callout[data-callout="infobox"] .callout-content {
+  overflow: visible !important;
+  max-height: none;
+}
+
+
+.callout[data-callout="infobox"] .callout-title {
+    display: none;
+}
+
+.callout[data-callout="infobox"] img {
+    display: block;
+    width: 100%;
+    margin: 0 auto 10px auto;
+}
+
+.callout[data-callout="infobox"] table {
+  width: 100%;
+  table-layout: auto; 
+  border-collapse: collapse;
+  font-size: 0.95em;
+  margin: 0;
+  padding: 0;
+}
+
+.callout[data-callout="infobox"] .table-container {
+  margin: 0;
+  padding: 0;
+}
+
+.callout[data-callout="infobox"] thead {
+  display: none;
+}
+
+.callout[data-callout="infobox"] td {
+  padding: 4px 6px;
+  vertical-align: top;
+  border: none;
+}
+
+.callout[data-callout="infobox"] tr {
+  border: none;
+}
+
+.callout[data-callout="infobox"] tr td:first-child {
+  font-weight: bold;
+  text-align: right;
+  width: 30%;
+  color: var(--text-muted);
+  white-space: nowrap;
+  max-width: 30%;
+  width: 1px; 
+}
+
+.callout[data-callout="infobox"] tr td:last-child {
+  text-align: left;
+  width: 100%;
+}
+
+
+
+@media (max-width: 700px) {
+  .callout[data-callout="infobox"] {
+    float: none;
+    margin: 1em 0;
+    width: 100%;
+  }
+}

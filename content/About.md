@@ -19,7 +19,7 @@ It's CRAZY HARD to find information on comp dbd, especially as a new viewer. Thi
 # Accuracy of information
 Well... as I stated before, I've been here for very little time and even when doing the research I'm not sure if - for example - a player is a temporary sub, or maybe he used to play for the said team, or maybe the team found someone that joined for a single match to prevent a forfeit?
 
-Don't get me wrong, I could listen to commentators and game analysts from the past 7 years of comp dbd, but I don't have this amount of free time as it's probably in thousands of hours.
+Don't get me wrong, I could listen to what commentators and game analysts say, on the past 7 years of comp dbd events, but I don't have this amount of free time as the footage is in hundreds if not thousands of hours.
 
 **If I made a mistake or you want to add something, please open a discussion on our Discord server linked in the footer.**
 
