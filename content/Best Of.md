@@ -6,6 +6,7 @@ aliases:
   - bo7
   - bo9
 title: Best of (BO3)
+description: '"Best Of" decides winners in match series - no ties, last set is the tie-breaker. Read the full article to learn more...'
 ---
 
 **Best of**, usually abbreviated as **BO** followed by a number (usually 3 or 5), is a way to decide a winner in a series of matches. The idea is that the number (X) can't be divided by 2, which means there can't be a tie. The final match acts as a tie-breaker, so *Best Of* numbers are always odd.
@@ -33,4 +34,4 @@ A week later, they played the second BO7. This time, Eternal won 4-3.
 
 Now the overall score in the BO3 is 1-1, meaning there's a need for a third and final BO7 — a tie-breaker.
 
-Now you should get it!
+Now you should get it, or at least !
