@@ -1,11 +1,19 @@
 ---
 description: |-
-  Team Nokron is a Dead by Daylight competitive teams.
+  Team Nokron is a Dead by Daylight competitive team.
 
   Roster: Ivn, Marcos, Schen, Vobbo, Zaka (C), Zynox
 title: Team Nokron
 team_logo:
 ---
+> [!infobox] Character Info
+> ![[nokron_logo.png]]
+> 
+>
+> |  Q  |  A  |
+> | --- | --- |
+> |  Region  | EU |
+
 **Team Nokron** is a Dead by Daylight competitive team made up of players from a bunch of different teams, especially [[Eternal]], [[Elysium]], and [[Synapse]].
 
 # Roster

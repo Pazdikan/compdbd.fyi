@@ -6,6 +6,14 @@ description: |-
   They disbanded in Q2 2025, and players were split into two new teams.
 tags:
 ---
+> [!infobox] Character Info
+> ![[eternal_logo.png]]
+> 
+>
+> |  Q  |  A  |
+> | --- | --- |
+> |  Region  | EU |
+
 **Team Eternal** was highly successful, recognized as one of the top teams, and often regarded as _the_ best, with around 50 tournament wins to their name.
 
 # Roster[^1]
