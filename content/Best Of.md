@@ -29,9 +29,11 @@ Since there are 3 total sets, even if Elysium wins the last one, they still can�
 
 In [[DBDLeague]] Season X, the grand final was a **BO3 of BO7**. Sounds complicated at first, right? Basically, there were 3 rounds, and each round was a BO7 (7 [[Sets]] per round). Since the grand final hasn't concluded yet, I’ll use a made-up example.
 
-On the first day of the grand final, [[Invictus]] and [[Eternal]] played a BO7. Invictus won 4-0. Since there were only 3 sets left, Eternal couldn’t possibly come back (at best, it would be 4-3, which is still a loss).  
-A week later, they played the second BO7. This time, Eternal won 4-3.
+> [!info] Match score is simulated and not real.
+
+On the first day of the grand final, [[Invictus]] and [[Elysium]] played a BO7. Invictus won 4-0. Since there were only 3 sets left, Elysium couldn’t possibly come back (at best, it would be 4-3, which is still a loss).  
+A day later they played the second BO7. This time, Elysium won 4-3.
 
 Now the overall score in the BO3 is 1-1, meaning there's a need for a third and final BO7 — a tie-breaker.
 
-Now you should get it, or at least !
+Now you should get it, or at least I hope you do!
