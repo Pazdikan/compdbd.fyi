@@ -31,7 +31,7 @@ tags:
 - Royalty[^1]
 
 # Disbandment
-In Q2 2025 Eternal disbanded, and it's players were split into two new teams.
+In Q2 2025 Eternal disbanded, and most of it's players were split into two new teams.
 
 ## [[Invictus|Team Invictus]]
 - KnightLight

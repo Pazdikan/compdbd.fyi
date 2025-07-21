@@ -5,8 +5,8 @@ aliases:
   - bo5
   - bo7
   - bo9
-title: Best of (BO3)
-description: '"Best Of" decides winners in match series - no ties, last set is the tie-breaker. Read the full article to learn more...'
+title: Best of (BO3, BO5)
+description: '"Best Of" decides winners in match series - meaning no ties, last set is the tie-breaker. Read the full article to learn more...'
 ---
 
 **Best of**, usually abbreviated as **BO** followed by a number (usually 3 or 5), is a way to decide a winner in a series of matches. The idea is that the number (X) can't be divided by 2, which means there can't be a tie. The final match acts as a tie-breaker, so *Best Of* numbers are always odd.
@@ -27,12 +27,10 @@ Since there are 3 total sets, even if Elysium wins the last one, they still can�
 
 ## More complicated
 
-In [[DBDLeague]] Season X, the grand final was a **BO3 of BO7**. Sounds complicated at first, right? Basically, there were 3 rounds, and each round was a BO7 (7 [[Sets]] per round). Since the grand final hasn't concluded yet, I’ll use a made-up example.
+In [[DBDLeague]] Season X, the grand final was a **BO3 of BO7**. Sounds complicated at first, right? Basically, there were 3 rounds, and each round was a BO7 (7 [[Sets]] per round). 
 
-> [!info] Match score is simulated and not real.
-
-On the first day of the grand final, [[Invictus]] and [[Elysium]] played a BO7. Invictus won 4-0. Since there were only 3 sets left, Elysium couldn’t possibly come back (at best, it would be 4-3, which is still a loss).  
-A day later they played the second BO7. This time, Elysium won 4-3.
+On the first day of the grand final, [[Invictus]] and [[Elysium]] played a BO7. Elysium won 4-1. Since there were only 2 sets left, Invictus couldn’t possibly come back (at best, it would be 4-3, which is still a loss).  
+A day later they played the second BO7. This time, Invictus won 4-0.
 
 Now the overall score in the BO3 is 1-1, meaning there's a need for a third and final BO7 — a tie-breaker.
 
