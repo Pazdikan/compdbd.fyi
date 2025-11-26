@@ -5,7 +5,23 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+    Component.Comments({
+      provider: 'giscus',
+      options: {
+        // from data-repo
+        repo: 'pazdikan/compdbd.fyi',
+        // from data-repo-id
+        repoId: 'R_kgDOPMRJTA',
+        // from data-category
+        category: 'Announcements',
+        // from data-category-id
+        categoryId: 'DIC_kwDOPMRJTM4CzFAR',
+        // from data-lang
+        lang: 'en'
+      }
+    }),
+  ],
   footer: Component.Footer({
     links: {
       "CompDBD.fyi Discord Server (feedback)": "https://discord.gg/xFZj6b4Mzq",
@@ -44,6 +60,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
+
 }
 
 // components for pages that display lists of pages  (e.g. tags or folders)
@@ -64,4 +81,5 @@ export const defaultListPageLayout: PageLayout = {
     Component.Explorer(),
   ],
   right: [],
+
 }

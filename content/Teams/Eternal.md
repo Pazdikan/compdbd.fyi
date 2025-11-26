@@ -17,7 +17,6 @@ tags:
 **Team Eternal** was highly successful, recognized as one of the top teams, and often regarded as _the_ best, with around 50 tournament wins to their name.
 
 # Roster[^1]
-%% ![[About#Accuracy Notice]]  %%
 
 - KnightLight
 - Spitzz
@@ -26,9 +25,6 @@ tags:
 - Ivn
 - Hxrdwell
 - Kekso
-
-## Former or temporary players
-- Royalty[^1]
 
 # Disbandment
 In Q2 2025 Eternal disbanded, and most of it's players were split into two new teams.

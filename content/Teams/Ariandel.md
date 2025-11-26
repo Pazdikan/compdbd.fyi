@@ -22,6 +22,16 @@ title: Team Ariandel
 
 # Roster
 
+## All Hallows League 2025
+
+- Bubbo
+- exize
+- hxrdwell
+- iPiC
+- lemagic
+- Swatter
+- TheFallenArt
+
 ## DBDLeague Season X[^1]
 - bubbo)  
 - dw)

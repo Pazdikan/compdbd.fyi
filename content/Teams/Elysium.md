@@ -18,6 +18,17 @@ team_logo:
 
 # Roster
 
+## All Hallows League 2025
+
+- Xeno
+- Obii
+- 1lmarco
+- PedroHz
+- Silhey
+- Ivn
+- Marcos
+- Zynox
+
 ## DBDLeague Season X[^1]
 - 1lmarco
 - Hein

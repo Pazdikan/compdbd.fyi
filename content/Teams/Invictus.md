@@ -22,6 +22,15 @@ team_logo: invictus_logo.png
 
 # Roster
 
+## All Hallows League 2025
+
+- Dan
+- Kekso
+- KnightLight
+- Pedro
+- Rocket
+- spitzz)
+
 ## DBDLeague Season X[^1]
 - Dan (C)
 - Kekso
