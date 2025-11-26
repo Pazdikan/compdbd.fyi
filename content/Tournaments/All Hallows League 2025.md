@@ -19,7 +19,7 @@ aliases:
 
 # Standings
 
-| Match # | TEAM A | SCORE | TEAM B |
+| # | TEAM | SCORE | TEAM |
 | :---: | :---: | :---: | :---: |
 | 1 | **Invictus** | 3-0 | Sorrow |
 | 2 | Catalyst | 2-3 | **Umbrella** |
