@@ -13,6 +13,8 @@ team_logo:
 > |  Q  |  A  |
 > | --- | --- |
 > |  Region  | EU |
+> | Established | Q2 2025 |
+> | Status | Merged with [[Oracle]] as [[Praxis]] |
 
 **Team Nokron** was a Dead by Daylight competitive team made up of players from a bunch of different teams, especially [[Eternal]], [[Elysium]], and [[Synapse]].
 

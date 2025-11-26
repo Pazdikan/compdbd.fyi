@@ -13,6 +13,8 @@ tags:
 > |  Q  |  A  |
 > | --- | --- |
 > |  Region  | EU |
+> | Status | Disbanded |
+> | Reason | Disagreement between players / Players wanting to move on |
 
 **Team Eternal** was highly successful, recognized as one of the top teams, and often regarded as _the_ best, with around 50 tournament wins to their name.
 

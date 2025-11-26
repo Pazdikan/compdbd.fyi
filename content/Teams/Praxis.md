@@ -2,7 +2,7 @@
 description: |-
   Team Praxis is a Dead by Daylight competitive team. It was a product of a merge between Nokron and Oracle.
 
-  Roster: 
+  Roster: Ward, Cartney, Laser, Overdose, Schen, V1, Zaka
 title: Team Praxis
 team_logo:
 est: August 22, 2025

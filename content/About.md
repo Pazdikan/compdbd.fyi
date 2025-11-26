@@ -26,7 +26,7 @@ Well... as I stated before, I've been here for very little time and even when do
 
 Don't get me wrong, I could listen to what commentators and game analysts say, on the past 7 years of comp dbd events, but I don't have this amount of free time as the footage is in hundreds if not thousands of hours.
 
-**If I made a mistake or you want to add something, please make a comment on the page of interest. Comments are below the content and require a GitHub account to write. Comments are handled as widgets, and do not require leaving this website to discuss.**
+**If I made a mistake or you want to add something, please make a comment on the page of interest. Comments are below the content and require a GitHub account to write. Comments are handled as widgets, and do not require leaving this website to discuss.*
 
 
 ## Accuracy Notice
