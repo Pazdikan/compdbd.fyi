@@ -9,8 +9,8 @@ import { defaultImage } from "./quartz/util/og"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Comp DBD",
-    pageTitleSuffix: "",
+    pageTitle: "Comp DBD Wiki",
+    pageTitleSuffix: " on Comp DBD Wiki",
     enableSPA: true,
     enablePopovers: true,
     analytics: null,

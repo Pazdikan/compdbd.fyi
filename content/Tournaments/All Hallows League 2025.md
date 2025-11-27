@@ -8,7 +8,7 @@ aliases:
 
 ![[ahl2025.webp]]
 
-**All Hallows League (2025)** hosted by [[DBDLeague]] was a tournament taking place from October 04 to November 22. 
+**All Hallows League (2025)** hosted by [[DBDLeague]] was a tournament taking place from October 04 to November 22. It is the 4th iteration of All Hallows League - a Halloween themed tournament.
 
 # Winner
 [[Invictus]]

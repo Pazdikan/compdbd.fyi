@@ -1,5 +1,5 @@
 ---
-
+date: 2025-11-26
 ---
 
 It's almost 2026 and the website wasn't updated since July...
